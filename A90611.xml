@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition presented to the Lords and Commons, by the royall party in the county of Sussex. Also two votes agreed upon by both Houses, for Col. Whaley to prosecute all advantages against those now in armes in the county of Essex. With, a true relation of a great victory in Northamptonshire, obtained by Col. Wayte knight, a Member of the House of Commons. Likewise, a totall defeate given to those forces in Kent, under Sir Richard Hardress at Feversham, (who formerly besieged Dover Castle) by Commissary Gen. Ireton, and Col. Barkstead. Imprimatur G.M.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90611</idno><idno type="EEBO-CITATION">99865400</idno>
+  <idno type="VID">164500</idno>
+  <idno type="EEBO-PROQUEST">2240919943</idno>
+  
+            <idno type="STC">Wing P1848</idno>
+            <idno type="STC">Thomason E522_38</idno>
+            <idno type="STC">ESTC R206226</idno>
+            <idno type="PROQUEST">99865400</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865400e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164500)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 81:E522[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition presented to the Lords and Commons, by the royall party in the county of Sussex. Also two votes agreed upon by both Houses, for Col. Whaley to prosecute all advantages against those now in armes in the county of Essex. With, a true relation of a great victory in Northamptonshire, obtained by Col. Wayte knight, a Member of the House of Commons. Likewise, a totall defeate given to those forces in Kent, under Sir Richard Hardress at Feversham, (who formerly besieged Dover Castle) by Commissary Gen. Ireton, and Col. Barkstead. Imprimatur G.M.</title>
+               </titleStmt>
+               <extent>[2], 9 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.J.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Final page misnumbered 9.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164500:1"/>
+            <p>A PETITJON PRESENTED TO THE LORDS and COMMONS, BY The Royall Party in the County of <hi>SƲSSEX.</hi>
+            </p>
+            <p>Also two Votes agreed on by both Houses, For Col. WHALEY to prosecute all advantages against those now in Armes in the County of ESSEX.</p>
+            <p>WITH, A true Relation of a great Victory in NOR<g ref="char:EOLhyphen"/>THAMPTONSHIRE, obtained by Col. WAYTE Knight, a Member of the House of Commons.</p>
+            <p>LIKEWISE, A. totall defeate given to those forces in KENT, under Sir RICHARD HARDRESS at FEVERSHAM, (who formerly besieged DOVER Castle) by Com<g ref="char:EOLhyphen"/>missary Gen. <hi>Ir<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton,</hi> and Col. <hi>Barkst<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="imprimatur">
+                        <p>
+                           <hi>Imprimatur</hi> G. M.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON, Printed for</hi> J. J. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:164500:2"/>
+            <pb n="1" facs="tcp:164500:2"/>
+            <head>A totall deseate given to the Roya<g ref="char:EOLhyphen"/>lists in <hi>Kent,</hi> by the Forces of that Renowned Generall, THO<g ref="char:EOLhyphen"/>MAS Lord FAIRFAX.</head>
+            <argument>
+               <p>
+                  <hi>In a Letter sent from</hi> Rochester, the 9. <hi>of</hi> Iune 1648. <hi>to a Friend.</hi>
+               </p>
+            </argument>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>VPon the relieving of <hi>Dover Castle</hi> by Colo<g ref="char:EOLhyphen"/>nell <hi>Rich,</hi> and Colonell <hi>Hewson,</hi> That night b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the 6. of <hi>June,</hi> the Mayor of <hi>Dover</hi> in the name of himselfe, and the Jurates, Officers, an In<g ref="char:EOLhyphen"/>habitants of <hi>Dover,</hi> sent a Trump<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to Col. <hi>Rich,</hi> for an Act of Indempnity, and other things, lest they should oppose him. He denied to grant them any because they refused it, when they might have had it from the Parliament, and so marcht into the Towne, expecting opposition, but the Mayor, and 300, more in Armes, instead of resisting, betooke themselves to the Fort, which was summoned as soone as our Guards wee set in the Town, and
+<pb n="2" facs="tcp:164500:3"/> they im<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eadialy y<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elded. Whereupon he sent a Company of Foot to possesse the Fort, where hee found 70. Barrels of Powder, besides Ordnance, and Armes; He sent another party towards <hi>Sand<g ref="char:EOLhyphen"/>wich,</hi> which we hope by this time is surrendred, and another partie to <hi>Deale,</hi> and <hi>Sandon</hi> Castles, of which you will shortly have an account. In the meane time Col. <hi>Barksteads</hi> Regimen, and the horse sent from the Generall, unde Com. Generall <hi>Jre<g ref="char:EOLhyphen"/>ton,</hi> towards Canterbury, marched thir day neere <hi>Feversham,</hi> met with a porty from Sir <hi>Rich: Har<g ref="char:EOLhyphen"/>dresse,</hi> (who lately besiedged <hi>Dover</hi> Castle,) Sir <hi>Thomas Palmer,</hi> sir <hi>William Man▪</hi> and divers other Genr. of quallity, d<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>siring a Parley, which by rea<g ref="char:EOLhyphen"/>son that the Foot upon this expedition designed in<g ref="char:EOLhyphen"/>to <hi>Essex,</hi> (where there so generall need) was conde<g ref="char:EOLhyphen"/>sended unto, and the matter of the Artilery, instant<g ref="char:EOLhyphen"/>ly agreed to, but the Messenger came away before they were put into a forme and signed; one A<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>icle was concluded, That at six of the Clock tomor<g ref="char:EOLhyphen"/>row morning we were to enter the Towne, and all the Armes and Ammunition are to brought into the Cathedrall. I for to acquaint you, that our party marched with Ladders instantly to storm the place when Messenger met them, and a party of the Ene<g ref="char:EOLhyphen"/>mies Horse, some 4 miles from the Towne, charged the van of our Horse, we killd one, and <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ooke 20. I doubt not but <hi>Kent</hi> will be soone reduced, which being knowne to the Ships, will be a great induce<g ref="char:EOLhyphen"/>ment to them to returne to the obedience of the Parliament. His Excellency hath sent unto them
+<pb n="3" facs="tcp:164500:3"/> by such * persons, who may probably prevaile with them, assuring his indeavours for In<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>empnity: I am,</p>
+            <closer>
+               <dateline>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chester, <date>9 Iune 12.</date>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>at night.</dateline>
+               <signed>Your humble Servant, William Clarke,</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <head>Orders from the Lord Generall for the bringing in of those Horses, taken taken from the Enemy in <hi>Kent,</hi> to the <hi>Quarter Master Generall,</hi> for use of the <hi>State.</hi>
+            </head>
+            <p>HIs Excellency the Lord <hi>Fairfax</hi> made these Orders concerning the Horse that were taken from <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Enemy in <hi>Kent,, viz:</hi>
+            </p>
+            <p>I doe hereby order and require, neither of Foot nor Horse, shall march with no more Horse, then what he is mounted on; and for those that have been lately taken as Prizes from the Enemy; as well every private Souldier, as other of Horse or Dragoones, they are to be disposed with speed and care for the publike Service: to bee sent to the
+<pb n="4" facs="tcp:164500:4"/> Quarter Master Ge<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erall, and he to set some ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke on them for the States use: and to send them in to my Secretary for what horses they so agree, and what prises, as well Sadles and other A<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes, which the Souldiers hath not use for: If any Souldier or Office<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shall refuse to obey this, they are to have such punishment, as the Articles of War<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e doth provide to be inflicted, in case of opposition in that par<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icular. This is to be observed from <hi>Tewsday</hi> or <hi>Wednesday,</hi> at the farthest, being the 6. of <hi>Iune,</hi>
+            </p>
+            <p>The Malignant and Papisticall party in <hi>Essex</hi> grow very presump<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uous; the Honest party hath withdraw themselves from them. The honest men and Towne of <hi>Colchester</hi> have turnd Sir <hi>Charles Lu<g ref="char:EOLhyphen"/>cas</hi> forth, and doe cleerely st<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd for the Parli<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment and Army, and doe protest, they will not counte<g ref="char:EOLhyphen"/>nance no such Papisticall Malignants, but are a for<g ref="char:EOLhyphen"/>tyfying the Towne, and standing upon their owne guard. There is Sir <hi>Iohn Hunnywood</hi> who hath raised and brought in 2000. Foot and Horse, of honest and well-affected men, who are come from ab<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut <hi>Cocksell</hi> side in <hi>Essex;</hi> yet that Malignant party, that is the remainder of <hi>Gorings,</hi> and they of <hi>Lucas</hi> F<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction, are very high, and have refused the Ordinance for Indempnity: Upon wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch the Parliament hath Voted this Order to Col. <hi>Whaly,</hi> R<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>solved that t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is House doth declare, that Coll. <hi>Whaley,</hi> and the rest of the Parliament Forces, may persue those <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat continue in Armes in the County of <hi>Essex</hi> against the Parliament, and doe Order that
+<pb n="5" facs="tcp:164500:4"/> they forthwith persue them, and p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>osecuting their advantages upon them accordingly.</p>
+            <p>His Excellencie hath sent over more into <hi>Essex,</hi> a brigade of 3000. Foote and Horse to subdue the E<g ref="char:EOLhyphen"/>nemy there, Col. <hi>Whaley</hi> and his party d<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th keep<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Randevouz at <hi>Wallen</hi> Common, neare <hi>Barnet</hi> wood, and <hi>Lucas</hi> and <hi>Gorings</hi> party is about Inger<g ref="char:EOLhyphen"/>ston, they formerly refused the Ordinance for In<g ref="char:EOLhyphen"/>dempnity, but now it will not be granted unto them: It is much to be admired that there should be such a plague of judgement and blindn<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sse fall upon, the people to think that <hi>Goring</hi> a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Lucas</hi> two Papists, A<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hists, or worse, that these men should sit in the behalf of the Essex Petition, where in the chief scope is a desiring of the fulfilling of the Cove<g ref="char:EOLhyphen"/>nan<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: this is a most fearefull spirit of madnesse which is fallen upon the people.</p>
+            <p>Upon Friday last there came a very presumptious Petition cut of Sussex, who there is no question but Goring and his complices ordered the dr<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ft, he h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th been sculking thereabouts any time this 4. months, and his residence hath been much and often at a Parliament mans house, time will discover more: it is a shame to think how this Kingdom hath and is bought and sold.</p>
+            <p>There hath been within these few dayes likewis<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, a plotting contrivance of mischiefe in Hampshire, at Lomer Ash, where there was a great me<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng and concourse of people under p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etenc<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Petitioning, but that honourable Col. Norton, hath rais<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Re<g ref="char:EOLhyphen"/>giment of horse, who soone prevented their mis<g ref="char:EOLhyphen"/>chievous
+<pb n="9" facs="tcp:164500:5"/> intentions: The Divel hath his game to play in every County throughout the Kingdom, a man would think, that this late passage in Kent, and the ch<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stisement they have had in Wales by the Lieutenant Generalls work, somewhat upon their tempers, Col. Wayte, one of the Knights for the County of Rutland, hath suppressed the body of the enemy that was rising in Lincolnshire, Rutlandshire, and Northamptonshire, by a well-affected party, taken many pri<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oners▪ most of which he hath dis<g ref="char:EOLhyphen"/>charged, except those which were the chiefe for them, he sent to the Parl. that he may have a Com<g ref="char:EOLhyphen"/>mission from my Lord Generall, to try them for their lives by Martiall Law, which was granted to them: The House ordered thanks to be sent unto him, for the exceeding good service he had done in those parts.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
